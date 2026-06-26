@@ -1,0 +1,11 @@
+Welcome to the File Ingestion Engine!
+ 
+This is a sample text file used for testing the TextFileReader.
+ 
+Student Name: Lorainne Garcia
+Course: BSIT
+Subject: IT-Elective 2
+ 
+The quick brown fox jumps over the lazy dog.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+This file contains multiple lines so the program can count them correctly.
